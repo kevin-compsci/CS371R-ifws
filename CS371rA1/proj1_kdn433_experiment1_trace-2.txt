@@ -1,0 +1,2111 @@
+Script started on Wed 21 Sep 2016 10:59:12 PM CDT
+kxnguyen@snickers:~$ java ir.vsr.InvertedPhraseIndex -html /u/mooney/ir-code/corppora/cs-faculty[A[C[C[C[C[C[Ctest[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjava ir.vsr.InvertedPhraseIndex -html /u/mooney/ir-code/corppora/cs-faculty
+Indexing documents in /u/mooney/ir-code/corpora/cs-faculty
+P001.html,P002.html,P003.html,P004.html,P005.html,P006.html,P007.html,P008.html,P009.html,P010.html,P011.html,P012.html,P013.html,P014.html,P015.html,P016.html,P017.html,P018.html,P019.html,P020.html,P021.html,P022.html,P023.html,P024.html,P025.html,P026.html,P027.html,P028.html,P029.html,P030.html,P031.html,P032.html,P033.html,P034.html,P035.html,P036.html,P037.html,P038.html,P039.html,P040.html,P041.html,P042.html,P043.html,P044.html,P045.html,P046.html,P047.html,P048.html,P049.html,P050.html,P051.html,P052.html,P053.html,P054.html,P055.html,P056.html,P057.html,P058.html,P059.html,P060.html,P061.html,P062.html,P063.html,P064.html,P065.html,P066.html,P067.html,P068.html,P069.html,P070.html,P071.html,P072.html,P073.html,P074.html,P075.html,P076.html,P077.html,P078.html,P079.html,P080.html,P081.html,P082.html,P083.html,P084.html,P085.html,P086.html,P087.html,P088.html,P089.html,P090.html,P091.html,P092.html,P093.html,P094.html,P095.html,P096.html,P097.html,P098.html,P099.html,P100.html,P101.html,P102.html,P103.html,P104.html,P105.html,P106.html,P107.html,P108.html,P109.html,P110.html,P111.html,P112.html,P113.html,P114.html,P115.html,P116.html,P117.html,P118.html,P119.html,P120.html,P121.html,P122.html,P123.html,P124.html,P125.html,P126.html,P127.html,P128.html,P129.html,P130.html,P131.html,P132.html,P133.html,P134.html,P135.html,P136.html,P137.html,P138.html,P139.html,P140.html,P141.html,P142.html,P143.html,P144.html,P145.html,P146.html,P147.html,P148.html,P149.html,P150.html,P151.html,P152.html,P153.html,P154.html,P155.html,P156.html,P157.html,P158.html,P159.html,P160.html,P161.html,P162.html,P163.html,P164.html,P165.html,P166.html,P167.html,P168.html,P169.html,P170.html,P171.html,P172.html,P173.html,P174.html,P175.html,P176.html,P177.html,P178.html,P179.html,P180.html,P181.html,P182.html,P183.html,P184.html,P185.html,P186.html,P187.html,P188.html,P189.html,P190.html,P191.html,P192.html,P193.html,P194.html,P195.html,P196.html,P197.html,P198.html,P199.html,P200.html,P201.html,P202.html,P203.html,P204.html,P205.html,P206.html,P207.html,P208.html,P209.html,P210.html,P211.html,P212.html,P213.html,P214.html,P215.html,P216.html,P217.html,P218.html,P219.html,P220.html,P221.html,P222.html,P223.html,P224.html,P225.html,P226.html,P227.html,P228.html,P229.html,P230.html,P231.html,P232.html,P233.html,P234.html,P235.html,P236.html,P237.html,P238.html,P239.html,P240.html,P241.html,P242.html,P243.html,P244.html,P245.html,P246.html,P247.html,P248.html,P249.html,P250.html,P251.html,P252.html,P253.html,P254.html,P255.html,P256.html,P257.html,P258.html,P259.html,P260.html,P261.html,P262.html,P263.html,P264.html,P265.html,P266.html,P267.html,P268.html,P269.html,P270.html,P271.html,P272.html,P273.html,P274.html,P275.html,P276.html,P277.html,P278.html,P279.html,P280.html,P281.html,P282.html,P283.html,P284.html,P285.html,P286.html,P287.html,P288.html,P289.html,P290.html,P291.html,P292.html,P293.html,P294.html,P295.html,P296.html,P297.html,P298.html,P299.html,P300.html,P301.html,P302.html,P303.html,P304.html,P305.html,P306.html,P307.html,P308.html,P309.html,P310.html,P311.html,P312.html,P313.html,P314.html,P315.html,P316.html,P317.html,P318.html,P319.html,P320.html,P321.html,P322.html,P323.html,P324.html,P325.html,P326.html,P327.html,P328.html,P329.html,P330.html,P331.html,P332.html,P333.html,P334.html,P335.html,P336.html,P337.html,P338.html,P339.html,P340.html,P341.html,P342.html,P343.html,P344.html,P345.html,P346.html,P347.html,P348.html,P349.html,P350.html,P351.html,P352.html,P353.html,P354.html,P355.html,P356.html,P357.html,P358.html,P359.html,P360.html,P361.html,P362.html,P363.html,P364.html,P365.html,P366.html,P367.html,P368.html,P369.html,P370.html,P371.html,P372.html,P373.html,P374.html,P375.html,P376.html,P377.html,P378.html,P379.html,P380.html,P381.html,P382.html,P383.html,P384.html,P385.html,P386.html,P387.html,P388.html,P389.html,P390.html,P391.html,P392.html,P393.html,P394.html,P395.html,P396.html,P397.html,P398.html,P399.html,P400.html,P401.html,P402.html,P403.html,P404.html,P405.html,P406.html,P407.html,P408.html,P409.html,P410.html,P411.html,P412.html,P413.html,P414.html,P415.html,P416.html,P417.html,P418.html,P419.html,P420.html,P421.html,P422.html,P423.html,P424.html,P425.html,P426.html,P427.html,P428.html,P429.html,P430.html,P431.html,P432.html,P433.html,P434.html,P435.html,P436.html,P437.html,P438.html,P439.html,P440.html,P441.html,P442.html,P443.html,P444.html,P445.html,P446.html,P447.html,P448.html,P449.html,P450.html,P451.html,P452.html,P453.html,P454.html,P455.html,P456.html,P457.html,P458.html,P459.html,P460.html,P461.html,P462.html,P463.html,P464.html,P465.html,P466.html,P467.html,P468.html,P469.html,P470.html,P471.html,P472.html,P473.html,P474.html,P475.html,P476.html,P477.html,P478.html,P479.html,P480.html,P481.html,P482.html,P483.html,P484.html,P485.html,P486.html,P487.html,P488.html,P489.html,P490.html,P491.html,P492.html,P493.html,P494.html,P495.html,P496.html,P497.html,P498.html,P499.html,P500.html,P501.html,P502.html,P503.html,P504.html,P505.html,P506.html,P507.html,P508.html,P509.html,P510.html,P511.html,P512.html,P513.html,P514.html,P515.html,P516.html,P517.html,P518.html,P519.html,P520.html,P521.html,P522.html,P523.html,P524.html,P525.html,P526.html,P527.html,P528.html,P529.html,P530.html,P531.html,P532.html,P533.html,P534.html,P535.html,P536.html,P537.html,P538.html,P539.html,P540.html,P541.html,P542.html,P543.html,P544.html,P545.html,P546.html,P547.html,P548.html,P549.html,P550.html,P551.html,P552.html,P553.html,P554.html,P555.html,P556.html,P557.html,P558.html,P559.html,P560.html,P561.html,P562.html,P563.html,P564.html,P565.html,P566.html,P567.html,P568.html,P569.html,P570.html,P571.html,P572.html,P573.html,P574.html,P575.html,P576.html,P577.html,P578.html,P579.html,P580.html,P581.html,P582.html,P583.html,P584.html,P585.html,P586.html,P587.html,P588.html,P589.html,P590.html,P591.html,P592.html,P593.html,P594.html,P595.html,P596.html,P597.html,P598.html,P599.html,P600.html,P601.html,P602.html,P603.html,P604.html,P605.html,P606.html,P607.html,P608.html,P609.html,P610.html,P611.html,P612.html,P613.html,P614.html,P615.html,P616.html,P617.html,P618.html,P619.html,P620.html,P621.html,P622.html,P623.html,P624.html,P625.html,P626.html,P627.html,P628.html,P629.html,P630.html,P631.html,P632.html,P633.html,P634.html,P635.html,P636.html,P637.html,P638.html,P639.html,P640.html,P641.html,P642.html,P643.html,P644.html,P645.html,P646.html,P647.html,P648.html,P649.html,P650.html,P651.html,P652.html,P653.html,P654.html,P655.html,P656.html,P657.html,P658.html,P659.html,P660.html,P661.html,P662.html,P663.html,P664.html,P665.html,P666.html,P667.html,P668.html,P669.html,P670.html,P671.html,P672.html,P673.html,P674.html,P675.html,P676.html,P677.html,P678.html,P679.html,P680.html,P681.html,P682.html,P683.html,P684.html,P685.html,P686.html,P687.html,P688.html,P689.html,P690.html,P691.html,P692.html,P693.html,P694.html,P695.html,P696.html,P697.html,P698.html,P699.html,P700.html,P701.html,P702.html,P703.html,P704.html,P705.html,P706.html,P707.html,P708.html,P709.html,P710.html,P711.html,P712.html,P713.html,P714.html,P715.html,P716.html,P717.html,P718.html,P719.html,P720.html,P721.html,P722.html,P723.html,P724.html,P725.html,P726.html,P727.html,P728.html,P729.html,P730.html,P731.html,P732.html,P733.html,P734.html,P735.html,P736.html,P737.html,P738.html,P739.html,P740.html,P741.html,P742.html,P743.html,P744.html,P745.html,P746.html,P747.html,P748.html,P749.html,P750.html,P751.html,P752.html,P753.html,P754.html,P755.html,P756.html,P757.html,P758.html,P759.html,P760.html,P761.html,P762.html,P763.html,P764.html,P765.html,P766.html,P767.html,P768.html,P769.html,P770.html,P771.html,P772.html,P773.html,P774.html,P775.html,P776.html,P777.html,P778.html,P779.html,P780.html,P781.html,P782.html,P783.html,P784.html,P785.html,P786.html,P787.html,P788.html,P789.html,P790.html,P791.html,P792.html,P793.html,P794.html,P795.html,P796.html,P797.html,P798.html,P799.html,P800.html,
+Phrase: harringtonhigh 3642
+
+Phrase: generalizesysload 2365
+
+Phrase: analoganrd 1619
+
+Phrase:  1222
+
+Phrase: gameaccommodations 1178
+
+Phrase: readmerpn 1126
+
+Phrase: stopplans 721
+
+Phrase: summeralumni 660
+
+Phrase: areastexas 635
+
+Phrase: campusoutreach 616
+
+Phrase: cshpr 571
+
+Phrase: officeblog 538
+
+Phrase: otterlovehicles 524
+
+Phrase: accommodationsstudent 519
+
+Phrase: txproject 487
+
+Phrase: alistsacc 426
+
+Phrase: missionstop 422
+
+Phrase: researchhonors 415
+
+Phrase: gerhardworld 405
+
+Phrase: roboticsdirect 376
+
+Phrase: journalgrasp 359
+
+Phrase: inhibitiontechnology 356
+
+Phrase: studentsmasters 349
+
+Phrase: austintransfers 343
+
+Phrase: mentiontrailer 338
+
+Phrase: adaptivejournal 337
+
+Phrase: teachtechnology 336
+
+Phrase: jongplaza 335
+
+Phrase: informationadrian 333
+
+Phrase: koprziwovaawareness 331
+
+Phrase: featuresschool 331
+
+Phrase: yearareas 330
+
+Phrase: textnat 330
+
+Phrase: implementorsunlike 328
+
+Phrase: studentuniversity 327
+
+Phrase: seminarsdefense 326
+
+Phrase: sciencerestaurants 321
+
+Phrase: stopphone 320
+
+Phrase: careersspeedway 319
+
+Phrase: universityfinancial 318
+
+Phrase: organizationsph 313
+
+Phrase: enableproof 310
+
+Phrase: fellowshipsnavigation 309
+
+Phrase: giftcareer 308
+
+Phrase: homepagesphd 307
+
+Phrase: utcsadvancing 306
+
+Phrase: requestgame 301
+
+Phrase: stepsfriends 297
+
+Phrase: departmentmake 296
+
+Phrase: internalstudy 289
+
+Phrase: schematicallyfoo 288
+
+Phrase: publicationsproposing 288
+
+Phrase: simulationyousuk 285
+
+Phrase: bssearch 281
+
+Phrase: homeform 280
+
+Phrase: curriculumservices 280
+
+Phrase: juneinformation 277
+
+Phrase: msoutreach 275
+
+Phrase: architecturesdoran 275
+
+Phrase: stateexp 274
+
+Phrase: nqthmacademic 266
+
+Phrase: currentreconnect 266
+
+Phrase: financialadvice 264
+
+Phrase: undergraduategrad 260
+
+Phrase: plansscience 259
+
+Phrase: curriculartx 259
+
+Phrase: modelingspaa 258
+
+Phrase: bcdsyoung 258
+
+Phrase: scholarshipscholarships 258
+
+Phrase: partnersinformation 258
+
+Phrase: computerseminars 256
+
+Phrase: headerfsrch 256
+
+Phrase: faqthesis 255
+
+Phrase: codeaccommodations 254
+
+Phrase: webmasterabroad 253
+
+Phrase: disconcertingformalize 249
+
+Phrase: schedulesstatement 245
+
+Phrase: incomingdevelopment 243
+
+Phrase: contactscholarship 243
+
+Phrase: alumnibs 242
+
+Phrase: integratedcomputing 240
+
+Phrase: candidacydepartment 239
+
+Phrase: phoneplans 236
+
+Phrase: honorsfaculty 236
+
+Phrase: estherjianmin 236
+
+Phrase: eventsjump 236
+
+Phrase: limbervalley 235
+
+Phrase: schoolportfolio 235
+
+Phrase: outreachdegree 233
+
+Phrase: icmlbai 232
+
+Phrase: prospectiveut 232
+
+Phrase: markchronological 232
+
+Phrase: dealdeletes 230
+
+Phrase: jumpemployers 229
+
+Phrase: admissionscoursework 227
+
+Phrase: kurumatanihiroaki 226
+
+Phrase: finalsupport 226
+
+Phrase: hopesreduces 222
+
+Phrase: abroadrequirements 221
+
+Phrase: searchcommunications 219
+
+Phrase: polynomialsdeform 219
+
+Phrase: advisingrobotics 219
+
+Phrase: travelingadmissions 218
+
+Phrase: elementsutcs 217
+
+Phrase: infosecfaq 216
+
+Phrase: diversitycurrent 212
+
+Phrase: northeastpermission 211
+
+Phrase: fasterma 211
+
+Phrase: riomodel 210
+
+Phrase: optionrequest 209
+
+Phrase: biconnectedrating 209
+
+Phrase: conferencescalendar 209
+
+Phrase: advicecertificate 206
+
+Phrase: publicationsscalable 205
+
+Phrase: proofyu 203
+
+Phrase: alumnicomputer 203
+
+Phrase: winbalajee 201
+
+Phrase: internshipsnavigation 201
+
+Phrase: entrycareers 200
+
+Phrase: embeddingberlin 199
+
+Phrase: exponentialdate 199
+
+Phrase: partnerselements 198
+
+Phrase: talkscandidacy 197
+
+Phrase: wirelesstravis 196
+
+Phrase: connectionsut 196
+
+Phrase: restaurantsregistration 195
+
+Phrase: practicalapply 194
+
+Phrase: leadwaive 194
+
+Phrase: utcourses 193
+
+Phrase: lessonsmotor 193
+
+Phrase: programsadvising 193
+
+Phrase: writersmaster 192
+
+Phrase: interpretermutilated 190
+
+Phrase: exenim 189
+
+Phrase: counterrpass 189
+
+Phrase: campspreparing 188
+
+Phrase: marchapplicant 188
+
+Phrase: pptebm 188
+
+Phrase: paycheck 187
+
+Phrase: sigkddheath 186
+
+Phrase: talcottserial 186
+
+Phrase: loftauthor 182
+
+Phrase: developmentlevel 180
+
+Phrase: gradpublications 180
+
+Phrase: certificateintegrated 179
+
+Phrase: directoryintegrated 177
+
+Phrase: dualjournal 177
+
+Phrase: settingproperly 177
+
+Phrase: searchdiversity 177
+
+Phrase: formpforms 176
+
+Phrase: raoframes 174
+
+Phrase: argumentsucceeds 173
+
+Phrase: clockalu 172
+
+Phrase: givingbs 171
+
+Phrase: ieeeresearch 170
+
+Phrase: commencementinternships 169
+
+Phrase: quebecdefining 169
+
+Phrase: alumniadvisor 168
+
+Phrase: teachingroadshow 167
+
+Phrase: utarea 167
+
+Phrase: keshavpp 166
+
+Phrase: layerstiresome 164
+
+Phrase: matchermatches 164
+
+Phrase: computersearch 164
+
+Phrase: terminateword 164
+
+Phrase: focstraining 163
+
+Phrase: wormmethod 161
+
+Phrase: traxiomatization 161
+
+Phrase: prerequisitescandidacy 160
+
+Phrase: mstree 160
+
+Phrase: directteaching 158
+
+Phrase: levelms 157
+
+Phrase: proposingengagement 157
+
+Phrase: lexemezerop 157
+
+Phrase: properrule 156
+
+Phrase: studydirect 155
+
+Phrase: honorsuk 154
+
+Phrase: texasschedulers 154
+
+Phrase: mclmd 154
+
+Phrase: newspractical 154
+
+Phrase: notecode 154
+
+Phrase: condenseduniversidad 152
+
+Phrase: presenceguide 152
+
+Phrase: negotiationlittman 152
+
+Phrase: advisorlos 152
+
+Phrase: pressdefined 150
+
+Phrase: prospectiveconnections 149
+
+Phrase: summaryoverview 148
+
+Phrase: announcementsproblems 147
+
+Phrase: affairswebmaster 147
+
+Phrase: invokingneeded 145
+
+Phrase: atlantajoanne 145
+
+Phrase: explorecurriculum 144
+
+Phrase: awardsorganizations 144
+
+Phrase: finiteel 144
+
+Phrase: statementcandidacy 143
+
+Phrase: calendarparticipate 143
+
+Phrase: pagesupport 142
+
+Phrase: commentarylessons 142
+
+Phrase: pastimpact 141
+
+Phrase: roadshowsummer 141
+
+Phrase: aerospaceinderjit 140
+
+Phrase: counterhole 139
+
+Phrase: requirementspractical 139
+
+Phrase: bscomputer 138
+
+Phrase: mastersindustry 138
+
+Phrase: pagecpaior 138
+
+Phrase: seminarsaustin 137
+
+Phrase: speedwaycamps 137
+
+Phrase: enablingcompletion 136
+
+Phrase: advancinginformation 136
+
+Phrase: performsadmits 136
+
+Phrase: chauunified 134
+
+Phrase: careereducation 134
+
+Phrase: trainingtitle 133
+
+Phrase: marginapr 132
+
+Phrase: actserect 131
+
+Phrase: trainingdirectory 131
+
+Phrase: scholarshipslinks 131
+
+Phrase: methodsdirect 130
+
+Phrase: engagementcurricular 130
+
+Phrase: phoneregistration 130
+
+Phrase: loopbsearch 130
+
+Phrase: graduateinfosec 130
+
+Phrase: jobslogical 130
+
+Phrase: webseminars 130
+
+Phrase: restaurantsprograms 129
+
+Phrase: initializeslead 129
+
+Phrase: graduateinitiatives 128
+
+Phrase: reasonableloader 128
+
+Phrase: mathbreakfast 128
+
+Phrase: roboticsstudents 128
+
+Phrase: acmrun 127
+
+Phrase: friendsentry 127
+
+Phrase: utoffers 126
+
+Phrase: phonline 125
+
+Phrase: industrygiving 125
+
+Phrase: flataubags 125
+
+Phrase: awardsservice 125
+
+Phrase: statepress 124
+
+Phrase: networkintegrated 124
+
+Phrase: endorsemanage 124
+
+Phrase: jobsservices 123
+
+Phrase: programmingprospective 123
+
+Phrase: programcommencement 123
+
+Phrase: informationundergraduate 123
+
+Phrase: securitycomputing 122
+
+Phrase: externalfinal 122
+
+Phrase: womeninternal 122
+
+Phrase: smallercalled 121
+
+Phrase: serviceorganizations 120
+
+Phrase: subtreenames 120
+
+Phrase: discussionsdesirable 119
+
+Phrase: grantedbeautiful 119
+
+Phrase: knobtoplower 119
+
+Phrase: faxgive 119
+
+Phrase: roboticsmasters 119
+
+Phrase: blogresearch 118
+
+Phrase: linksrepresentative 118
+
+Phrase: manuallycreated 118
+
+Phrase: applymobile 118
+
+Phrase: computerways 117
+
+Phrase: jobscurriculum 116
+
+Phrase: processorinput 116
+
+Phrase: rimmultiobjective 115
+
+Phrase: accommodationsmathematics 115
+
+Phrase: decembermao 115
+
+Phrase: ascendingclimber 114
+
+Phrase: formawards 114
+
+Phrase: facultyfeatures 114
+
+Phrase: computingsecurity 113
+
+Phrase: icoreruiz 113
+
+Phrase: awardpaper 113
+
+Phrase: phisubtree 113
+
+Phrase: supplementarylittman 113
+
+Phrase: evaluationfellowships 112
+
+Phrase: schedulestalks 112
+
+Phrase: programmingcomputational 112
+
+Phrase: phsemester 111
+
+Phrase: arithspecifies 110
+
+Phrase: pinearlier 110
+
+Phrase: applicationssahai 110
+
+Phrase: halfintroduces 110
+
+Phrase: connectionsincoming 110
+
+Phrase: balfanzfelten 109
+
+Phrase: dirtyvariables 109
+
+Phrase: formservice 108
+
+Phrase: enforceground 108
+
+Phrase: transfersevent 108
+
+Phrase: additionsdiscussed 107
+
+Phrase: sunextended 107
+
+Phrase: fellowshipsscore 107
+
+Phrase: numbercollins 106
+
+Phrase: speedwayprofessor 106
+
+Phrase: shenjuels 106
+
+Phrase: scholarshipsprospective 106
+
+Phrase: decembershare 105
+
+Phrase: modalitiesbobby 105
+
+Phrase: generationmeets 104
+
+Phrase: predicatesparser 104
+
+Phrase: weltymontague 104
+
+Phrase: projectresearch 104
+
+Phrase: navigationinfosec 104
+
+Phrase: classnews 103
+
+Phrase: preparingfinal 103
+
+Phrase: leaguehierarchy 102
+
+Phrase: texasprogram 102
+
+Phrase: statementclass 102
+
+Phrase: projectlanguage 101
+
+Phrase: advancementselection 101
+
+Phrase: linksbarnard 101
+
+Phrase: barnardverbs 100
+
+Phrase: classaffairs 100
+
+Phrase: secondsproblem 100
+
+Phrase: marchcs 99
+
+Phrase: roceedingsmao 99
+
+Phrase: biconnectedtucker 99
+
+Phrase: clustermetadata 99
+
+Phrase: datafec 99
+
+Phrase: computingaward 99
+
+Phrase: articlevolume 99
+
+Phrase: downloadhigh 98
+
+Phrase: weekaccommodations 98
+
+Phrase: unsoundside 98
+
+Phrase: precedingunsoundness 98
+
+Phrase: communicationsdual 98
+
+Phrase: abstractsdefining 98
+
+Phrase: contextmodel 98
+
+Phrase: treesteps 98
+
+Phrase: redspring 97
+
+Phrase: programapril 97
+
+Phrase: texasfellowships 97
+
+Phrase: titledirectory 97
+
+Phrase: computationalut 96
+
+Phrase: designworking 96
+
+Phrase: schoolcontact 96
+
+Phrase: partitionederror 95
+
+Phrase: deletesymbolp 95
+
+Phrase: computingintends 95
+
+Phrase: mobilehome 95
+
+Phrase: dclpoint 95
+
+Phrase: edgeautomation 95
+
+Phrase: summaryanswered 94
+
+Phrase: collegecareer 94
+
+Phrase: thesishttps 94
+
+Phrase: maintainednet 94
+
+Phrase: worldinduction 93
+
+Phrase: pokecoerces 93
+
+Phrase: createdminutes 93
+
+Phrase: sophisticatedaccess 92
+
+Phrase: participatejobs 92
+
+Phrase: networkingoffice 92
+
+Phrase: vehiclesdetect 92
+
+Phrase: lockingpplfun 92
+
+Phrase: eenvandaagassignment 92
+
+Phrase: cinematographytourist 92
+
+Phrase: thesisnazneen 92
+
+Phrase: prospectiveprogramming 91
+
+Phrase: joseptime 91
+
+Phrase: disambiguationpatrick 90
+
+Phrase: codingsearch 90
+
+Phrase: associationssustik 90
+
+Phrase: signsrelated 90
+
+Phrase: modelingsigplan 89
+
+Phrase: makeaffairs 89
+
+Phrase: heidelbergspectrum 89
+
+Phrase: parsonspo 89
+
+Phrase: hyperpackage 89
+
+Phrase: sightconnection 89
+
+Phrase: permittranslation 88
+
+Phrase: registrationwomen 88
+
+Phrase: employersgracs 88
+
+Phrase: generatepassion 87
+
+Phrase: modifiedlinks 87
+
+Phrase: nestsvar 87
+
+Phrase: verifiedefn 87
+
+Phrase: bookshow 86
+
+Phrase: performanceparenthesized 86
+
+Phrase: sustainableutilizing 86
+
+Phrase: advisorcomputer 86
+
+Phrase: programsdean 85
+
+Phrase: copyberlin 85
+
+Phrase: frontreduction 85
+
+Phrase: epsilongrammar 85
+
+Phrase: writerbaronio 85
+
+Phrase: bulgariacorpus 85
+
+Phrase: projectacm 84
+
+Phrase: virginiaarizona 84
+
+Phrase: acceptedpublished 84
+
+Phrase: reconnectdefense 84
+
+Phrase: localsoroker 84
+
+Phrase: entiretyconsistent 84
+
+Phrase: commoninterest 84
+
+Phrase: academicshome 84
+
+Phrase: prospectivecomputational 84
+
+Phrase: honorsresearch 83
+
+Phrase: hypothesisformp 83
+
+Phrase: rankedalgorithmic 83
+
+Phrase: registrationprograms 83
+
+Phrase: upperempirical 83
+
+Phrase: founddefense 82
+
+Phrase: timeoutmiss 82
+
+Phrase: observespredicate 82
+
+Phrase: displayscond 82
+
+Phrase: atlantadiscovered 82
+
+Phrase: libraryfile 82
+
+Phrase: goocooconstancy 82
+
+Phrase: machineryencoded 81
+
+Phrase: sensorjoseph 81
+
+Phrase: pedrodesign 81
+
+Phrase: supervisoraccommodations 81
+
+Phrase: intermediatesimultaneously 80
+
+Phrase: functionshouseholder 80
+
+Phrase: degreetree 80
+
+Phrase: applicationscriteria 80
+
+Phrase: procefficient 80
+
+Phrase: couplelondon 80
+
+Phrase: higherreasons 80
+
+Phrase: curriculumhomepages 79
+
+Phrase: submittedstop 79
+
+Phrase: computerworld 79
+
+Phrase: speedcaveats 79
+
+Phrase: resultsoffers 79
+
+Phrase: reviewyp 78
+
+Phrase: endorsedapparent 78
+
+Phrase: speakinggraduation 78
+
+Phrase: evaluationskimming 78
+
+Phrase: journalsystems 78
+
+Phrase: careeryear 78
+
+Phrase: integratedsecurity 78
+
+Phrase: modelhttps 78
+
+Phrase: advisingwomen 77
+
+Phrase: secureieee 77
+
+Phrase: employersgive 77
+
+Phrase: setskickoff 77
+
+Phrase: separatesformula 77
+
+Phrase: questionsproject 77
+
+Phrase: imageswork 77
+
+Phrase: arieltambe 77
+
+Phrase: careersoftware 77
+
+Phrase: approvedgraduation 77
+
+Phrase: givegracs 77
+
+Phrase: repeatedchallenging 77
+
+Phrase: phdelements 76
+
+Phrase: bartleyinvariance 76
+
+Phrase: strategyslashdot 76
+
+Phrase: certificatefocs 76
+
+Phrase: energyagrees 76
+
+Phrase: reconnectsystems 76
+
+Phrase: computinginvestigator 76
+
+Phrase: externalpreparing 76
+
+Phrase: choleskycompution 76
+
+Phrase: facultysciences 75
+
+Phrase: toolsuniform 75
+
+Phrase: organizationelements 75
+
+Phrase: fallseminars 75
+
+Phrase: estimateddetects 75
+
+Phrase: foreignalumni 75
+
+Phrase: associativitydisplaying 75
+
+Phrase: visualifsa 75
+
+Phrase: mathematicsstudent 75
+
+Phrase: bustolerant 74
+
+Phrase: strpbrkgenfact 74
+
+Phrase: integratednumerical 74
+
+Phrase: authorslncs 74
+
+Phrase: efficientinitial 74
+
+Phrase: addresseswerewolf 74
+
+Phrase: icgismart 74
+
+Phrase: directstudents 74
+
+Phrase: giftcollege 74
+
+Phrase: extensiveshowed 74
+
+Phrase: flowmanipulate 74
+
+Phrase: artificialform 74
+
+Phrase: implicitlytolerable 74
+
+Phrase: emeritusmachine 73
+
+Phrase: homeartificial 73
+
+Phrase: paperscontent 73
+
+Phrase: alyilun 73
+
+Phrase: curriculumopportunities 73
+
+Phrase: lorenzoshmat 73
+
+Phrase: showrule 73
+
+Phrase: plotprimp 73
+
+Phrase: awardsph 73
+
+Phrase: ordinalprinciple 73
+
+Phrase: talksstatement 72
+
+Phrase: collaboratorimproved 72
+
+Phrase: crawfordvilla 72
+
+Phrase: machineelements 72
+
+Phrase: pointintegrated 72
+
+Phrase: campsexternal 72
+
+Phrase: tablecompeted 72
+
+Phrase: enablegames 72
+
+Phrase: additionalaverages 72
+
+Phrase: insertionreplacement 72
+
+Phrase: modelcracow 72
+
+Phrase: litatomfixed 72
+
+Phrase: makeclass 72
+
+Phrase: lostenable 72
+
+Phrase: coursesincoming 72
+
+Phrase: successauthority 72
+
+Phrase: matchingcurrent 71
+
+Phrase: portfoliolinks 71
+
+Phrase: defenseaustin 71
+
+Phrase: supportiverob 71
+
+Phrase: blogassociate 71
+
+Phrase: studycomputed 71
+
+Phrase: kuiperscombining 71
+
+Phrase: roboticsassociation 71
+
+Phrase: computerfile 71
+
+Phrase: restrictedgravity 71
+
+Phrase: eventconferences 71
+
+Phrase: logicinevitability 71
+
+Phrase: derivinggpus 71
+
+Phrase: grainbenchmarks 71
+
+Phrase: homespecial 71
+
+Phrase: lucidnecessity 70
+
+Phrase: trafficlas 70
+
+Phrase: shortobserving 70
+
+Phrase: editingpragmatically 70
+
+Phrase: withdrawingcr 70
+
+Phrase: basedmodels 70
+
+Phrase: internshipsfellowships 69
+
+Phrase: teachingindustry 69
+
+Phrase: datedata 69
+
+Phrase: participateexplore 69
+
+Phrase: empowermentoperations 69
+
+Phrase: potentialday 69
+
+Phrase: remarksproperties 69
+
+Phrase: computercurrent 69
+
+Phrase: esxreferee 69
+
+Phrase: permitteddelimiters 69
+
+Phrase: pivotinghessenberg 69
+
+Phrase: validasked 68
+
+Phrase: thesisinitiatives 68
+
+Phrase: failuretransformations 68
+
+Phrase: normalizedline 68
+
+Phrase: levelcampus 68
+
+Phrase: flowsdivide 68
+
+Phrase: computerchoudhury 67
+
+Phrase: industryroadshow 67
+
+Phrase: newswebmaster 67
+
+Phrase: professorcamps 67
+
+Phrase: givingsummer 67
+
+Phrase: campusms 67
+
+Phrase: daysinformation 67
+
+Phrase: aghazadehinria 67
+
+Phrase: modelsbased 67
+
+Phrase: microsoftieee 67
+
+Phrase: communicationsjournal 66
+
+Phrase: misrafamily 66
+
+Phrase: sizeboris 66
+
+Phrase: thesisfax 66
+
+Phrase: travelingcoursework 66
+
+Phrase: conundrumscratch 66
+
+Phrase: immediatelyturn 66
+
+Phrase: pocvapproximate 65
+
+Phrase: tadokorotransition 65
+
+Phrase: burstysilhouette 65
+
+Phrase: faxevents 65
+
+Phrase: newshours 65
+
+Phrase: identifybarring 65
+
+Phrase: criticalaccommodations 65
+
+Phrase: servicesjosh 65
+
+Phrase: projectoffice 65
+
+Phrase: novemberisp 65
+
+Phrase: kattimemory 64
+
+Phrase: worthincreases 64
+
+Phrase: roadshowgiving 64
+
+Phrase: mooneykulkarni 64
+
+Phrase: combinatorialcube 64
+
+Phrase: fransmasters 64
+
+Phrase: computerfall 64
+
+Phrase: explorejobs 64
+
+Phrase: searchcurrent 64
+
+Phrase: supportoption 64
+
+Phrase: fairlyrequire 64
+
+Phrase: issuesrequired 64
+
+Phrase: structuralimitation 64
+
+Phrase: automaticallyconcurrent 64
+
+Phrase: intermediateaz 64
+
+Phrase: packetscoreplatform 63
+
+Phrase: emailkey 63
+
+Phrase: serviceshomepages 63
+
+Phrase: hermitiansubprograms 63
+
+Phrase: mastersteaching 63
+
+Phrase: affairsnews 63
+
+Phrase: arialauthorization 63
+
+Phrase: conservativelymarks 63
+
+Phrase: reviewerco 63
+
+Phrase: preserveestablish 63
+
+Phrase: specsleaves 63
+
+Phrase: septemberieeeintelligent 62
+
+Phrase: requirementsacademics 62
+
+Phrase: searchreconnect 62
+
+Phrase: involveconstrained 62
+
+Phrase: lettingspeeds 62
+
+Phrase: bunzipcoloring 62
+
+Phrase: servicesco 62
+
+Phrase: inriagutman 62
+
+Phrase: talkedhoping 62
+
+Phrase: dochertyde 62
+
+Phrase: clientseeker 62
+
+Phrase: systemsdefense 62
+
+Phrase: razgoogle 62
+
+Phrase: assumptionsprotocol 62
+
+Phrase: sightedaccounting 62
+
+Phrase: overviewhours 62
+
+Phrase: peculiarnoninductive 62
+
+Phrase: httpstext 62
+
+Phrase: sciencesfeatures 61
+
+Phrase: assuredindependently 61
+
+Phrase: managementservice 61
+
+Phrase: hoursprevious 61
+
+Phrase: texastrees 61
+
+Phrase: icacrepeated 61
+
+Phrase: rapidtracerio 61
+
+Phrase: datasimple 61
+
+Phrase: settingsconstructing 60
+
+Phrase: repositoriesuk 60
+
+Phrase: explainedbackquotes 60
+
+Phrase: graduateteh 60
+
+Phrase: hoiemhashing 60
+
+Phrase: johnwtw 60
+
+Phrase: yinweidmann 60
+
+Phrase: bindsshared 59
+
+Phrase: scholarshipsdetails 59
+
+Phrase: logspaceghosh 59
+
+Phrase: netverification 59
+
+Phrase: resultingsystem 59
+
+Phrase: portfoliocontact 59
+
+Phrase: computationalarea 59
+
+Phrase: atlantaswitching 59
+
+Phrase: parkfuzzy 59
+
+Phrase: personalal 59
+
+Phrase: ruleback 59
+
+Phrase: backgroundprinciples 59
+
+Phrase: collectdetector 59
+
+Phrase: bkproves 59
+
+Phrase: claimingscholarships 59
+
+Phrase: tinybelongie 59
+
+Phrase: homeschedule 58
+
+Phrase: linksinternational 58
+
+Phrase: offerscourses 58
+
+Phrase: operationspaper 58
+
+Phrase: repeatedresearch 58
+
+Phrase: formmanagement 58
+
+Phrase: facultyspring 58
+
+Phrase: consortiumsource 58
+
+Phrase: tempprocess 58
+
+Phrase: universitypolicies 58
+
+Phrase: preciselybehave 58
+
+Phrase: cacompared 58
+
+Phrase: juhyunsuccess 58
+
+Phrase: distributedtraveling 58
+
+Phrase: substitutionrelied 58
+
+Phrase: septemberpaper 57
+
+Phrase: lakofftimes 57
+
+Phrase: navigationgraduate 57
+
+Phrase: understandingifsa 57
+
+Phrase: embedgreater 57
+
+Phrase: toppeter 57
+
+Phrase: compressedtv 57
+
+Phrase: additionalshow 57
+
+Phrase: explosionpermit 57
+
+Phrase: flowpassively 57
+
+Phrase: utadd 57
+
+Phrase: weblow 57
+
+Phrase: serviceslogical 57
+
+Phrase: dijkstraacm 57
+
+Phrase: coursescampus 57
+
+Phrase: phdcomputation 57
+
+Phrase: alfredoiii 57
+
+Phrase: incrementyoungest 57
+
+Phrase: idabryant 57
+
+Phrase: computingschedules 57
+
+Phrase: luongzheng 57
+
+Phrase: aksitproperties 57
+
+Phrase: seriesmaximum 57
+
+Phrase: originalsolicited 57
+
+Phrase: strongrobotics 56
+
+Phrase: documentscan 56
+
+Phrase: leaguesmade 56
+
+Phrase: assignmentssoftware 56
+
+Phrase: falsepscience 56
+
+Phrase: directlyqualify 56
+
+Phrase: readingsugato 56
+
+Phrase: researchlin 56
+
+Phrase: gcattervinstances 56
+
+Phrase: neededrule 56
+
+Phrase: fallweb 56
+
+Phrase: subsetappend 56
+
+Phrase: completedslow 56
+
+Phrase: issuelarge 56
+
+Phrase: exponentialcorr 56
+
+Phrase: grosslypause 56
+
+Phrase: advicepart 56
+
+Phrase: fashionordinal 56
+
+Phrase: futurereport 56
+
+Phrase: defensereported 56
+
+Phrase: conferencerobotics 56
+
+Phrase: nondefinitionalsuppressed 56
+
+Phrase: consistentabstract 56
+
+Phrase: timestampreceive 56
+
+Phrase: exitunintended 56
+
+Phrase: dynamicfifteenth 56
+
+Phrase: austinelectronic 56
+
+Phrase: hashinghoiem 56
+
+Phrase: neededdestination 55
+
+Phrase: lcpccdma 55
+
+Phrase: odessatyndall 55
+
+Phrase: capabilitycryptosystems 55
+
+Phrase: studentpurpose 55
+
+Phrase: datesharon 55
+
+Phrase: inclusivebiology 55
+
+Phrase: blackworkloads 55
+
+Phrase: applycenter 55
+
+Phrase: realizedexpose 55
+
+Phrase: receivesstops 55
+
+Phrase: abbrevclassify 55
+
+Phrase: strungmembership 55
+
+Phrase: placidhashing 55
+
+Phrase: satisfiabilityevg 55
+
+Phrase: politecnicamechanically 54
+
+Phrase: austinmember 54
+
+Phrase: ifsseparates 54
+
+Phrase: pattersoninformation 54
+
+Phrase: certificatepursue 54
+
+Phrase: focslearning 54
+
+Phrase: anticipationpatrick 54
+
+Phrase: providephone 54
+
+Phrase: effectivesiert 54
+
+Phrase: restrictedosnabruck 54
+
+Phrase: machinediscovery 54
+
+Phrase: programcomplementary 54
+
+Phrase: finalpage 54
+
+Phrase: whitepaperidentity 54
+
+Phrase: increasedstudents 54
+
+Phrase: responsibilitysystems 54
+
+Phrase: registrarrobotics 54
+
+Phrase: georgesamuel 54
+
+Phrase: courseworkpetitions 54
+
+Phrase: projectsecure 54
+
+Phrase: performmultiple 54
+
+Phrase: glasschokecherry 54
+
+Phrase: iolower 53
+
+Phrase: spaininternal 53
+
+Phrase: mountainhaynach 53
+
+Phrase: gveppltcpum 53
+
+Phrase: curriculumphd 53
+
+Phrase: tournamentgerhard 53
+
+Phrase: temporalfangkai 53
+
+Phrase: graysonasim 53
+
+Phrase: petersystems 53
+
+Phrase: reconstructsignificant 53
+
+Phrase: internationalselected 53
+
+Phrase: statelesssyncookies 53
+
+Phrase: symbolicbased 52
+
+Phrase: vanefficiency 52
+
+Phrase: fangkaibased 52
+
+Phrase: turnsnewly 52
+
+Phrase: problemsaccommodations 52
+
+Phrase: complexitysimultaneous 52
+
+Phrase: daviddepartment 52
+
+Phrase: fellowshipsgraduate 52
+
+Phrase: additionalmotivation 52
+
+Phrase: abilityimplementations 52
+
+Phrase: phaseitem 52
+
+Phrase: bardraft 51
+
+Phrase: supportstakes 51
+
+Phrase: securemicrosoft 51
+
+Phrase: limitssituation 51
+
+Phrase: computingseptember 51
+
+Phrase: blockmodel 51
+
+Phrase: participatelanguages 51
+
+Phrase: bqsixth 51
+
+Phrase: officialproject 51
+
+Phrase: roadshowalumni 51
+
+Phrase: overlappingdiscovery 51
+
+Phrase: purposestechniques 51
+
+Phrase: informationinterests 51
+
+Phrase: commencedpoints 51
+
+Phrase: uttech 51
+
+Phrase: piboxconsistent 51
+
+Phrase: aidmanagers 51
+
+Phrase: clubrobots 50
+
+Phrase: timereducing 50
+
+Phrase: listarranges 50
+
+Phrase: paperspca 50
+
+Phrase: labblog 50
+
+Phrase: lorenzoabraham 50
+
+Phrase: initiativesevents 50
+
+Phrase: rateaveraged 50
+
+Phrase: iprobustness 50
+
+Phrase: introductionaffairs 50
+
+Phrase: contextaction 50
+
+Phrase: constructbit 50
+
+Phrase: reportconstraint 50
+
+Phrase: publishingmeeting 50
+
+Phrase: fellowelements 50
+
+Phrase: transferabilitymachinery 50
+
+Phrase: initiativesfax 50
+
+Phrase: locationtime 50
+
+Phrase: sciencepresenting 50
+
+Phrase: requiredcommencement 49
+
+Phrase: ftlayered 49
+
+Phrase: definedelement 49
+
+Phrase: teachingfoundation 49
+
+Phrase: eventexplore 49
+
+Phrase: bookconcept 49
+
+Phrase: reconnectseminars 49
+
+Phrase: bipedalevaluating 49
+
+Phrase: ieeeanna 49
+
+Phrase: termcompared 49
+
+Phrase: eventslex 49
+
+Phrase: azprograms 49
+
+Phrase: consumptionicons 49
+
+Phrase: fastseries 49
+
+Phrase: mobileacademics 48
+
+Phrase: topera 48
+
+Phrase: modeltext 48
+
+Phrase: bandlapptx 48
+
+Phrase: utadmitted 48
+
+Phrase: tamarch 48
+
+Phrase: priorschool 48
+
+Phrase: dayconnections 48
+
+Phrase: generallynne 48
+
+Phrase: slightlysmaller 48
+
+Phrase: programmmingportland 48
+
+Phrase: strncatmail 48
+
+Phrase: hourspractical 48
+
+Phrase: advancedspaa 48
+
+Phrase: summercameras 48
+
+Phrase: webaustin 48
+
+Phrase: submitabsence 48
+
+Phrase: constitutentrecently 48
+
+Phrase: austindecember 48
+
+Phrase: gainrock 48
+
+Phrase: karlequivalence 48
+
+Phrase: methodsdifferences 48
+
+Phrase: acceptedugly 48
+
+Phrase: representseffective 48
+
+Phrase: fereschase 48
+
+Phrase: differentiatedesignated 48
+
+Phrase: accommodationschallenges 48
+
+Phrase: featureweb 47
+
+Phrase: sufficientclassifiers 47
+
+Phrase: graphicssecure 47
+
+Phrase: wanzyzzyva 47
+
+Phrase: onlinepartitioning 47
+
+Phrase: collegesresources 47
+
+Phrase: manishiaai 47
+
+Phrase: linksprospective 47
+
+Phrase: largestrequest 47
+
+Phrase: programmingmichel 47
+
+Phrase: thakurfusing 47
+
+Phrase: vanmiddlesworthmas 47
+
+Phrase: vandemasters 47
+
+Phrase: learningtraining 47
+
+Phrase: representationremove 47
+
+Phrase: mergesortgf 47
+
+Phrase: takinggift 47
+
+Phrase: dropingerhard 47
+
+Phrase: homepagegift 47
+
+Phrase: backfocs 47
+
+Phrase: testsolutions 47
+
+Phrase: detolerant 47
+
+Phrase: elemdiscover 47
+
+Phrase: georgevector 47
+
+Phrase: modelproceedings 47
+
+Phrase: suitabilitylogically 47
+
+Phrase: discoverymachine 47
+
+Phrase: hiroakiartificial 47
+
+Phrase: calendarreceive 47
+
+Phrase: thirtiethinstructions 47
+
+Phrase: analysispacket 47
+
+Phrase: tpepbar 47
+
+Phrase: studymethods 46
+
+Phrase: natedias 46
+
+Phrase: datamail 46
+
+Phrase: silvahonolulu 46
+
+Phrase: smartleases 46
+
+Phrase: leadsends 46
+
+Phrase: futureelements 46
+
+Phrase: sourcemicrosoft 46
+
+Phrase: interestsutexas 46
+
+Phrase: standardhsinchu 46
+
+Phrase: lenrefrain 46
+
+Phrase: presentingassumed 46
+
+Phrase: collectedtransmitted 46
+
+Phrase: terminatedlistening 46
+
+Phrase: currentdiversity 46
+
+Phrase: advancefellowships 46
+
+Phrase: evaluationbar 46
+
+Phrase: karlsruhetheoretic 46
+
+Phrase: droppingoutreach 46
+
+Phrase: connectionsgroup 46
+
+Phrase: automaticacademics 46
+
+Phrase: texasremote 45
+
+Phrase: comingclosest 45
+
+Phrase: answerpartners 45
+
+Phrase: kannandresner 45
+
+Phrase: mathematicaldata 45
+
+Phrase: studyrobotics 45
+
+Phrase: eventphases 45
+
+Phrase: abilitybelief 45
+
+Phrase: statementsupporting 45
+
+Phrase: msincludes 45
+
+Phrase: circleactions 45
+
+Phrase: ftsanta 45
+
+Phrase: conferencedocument 45
+
+Phrase: voteearly 45
+
+Phrase: formapproximately 45
+
+Phrase: symposiumrandom 45
+
+Phrase: completeutexas 45
+
+Phrase: tanmisha 45
+
+Phrase: researchsciences 45
+
+Phrase: nthshortcomings 45
+
+Phrase: disoveryplanet 45
+
+Phrase: parsershistorical 45
+
+Phrase: statuseugene 45
+
+Phrase: smallfeb 45
+
+Phrase: potentialnecessitate 45
+
+Phrase: supportinternet 45
+
+Phrase: relationsdomingos 44
+
+Phrase: encouragenative 44
+
+Phrase: researchfaculty 44
+
+Phrase: neededdetect 44
+
+Phrase: jacktyler 44
+
+Phrase: correlatedanalysts 44
+
+Phrase: centricarizona 44
+
+Phrase: saluspublications 44
+
+Phrase: marchconcurrency 44
+
+Phrase: mechanicalinvoke 44
+
+Phrase: metatheoryresult 44
+
+Phrase: utcomputational 44
+
+Phrase: taroffset 44
+
+Phrase: presspublishing 44
+
+Phrase: chakrabortydoranpid 44
+
+Phrase: concurrentstudents 44
+
+Phrase: programmingut 44
+
+Phrase: waivedrelated 44
+
+Phrase: julyrequire 44
+
+Phrase: parsingdanger 44
+
+Phrase: undergraduatepublications 44
+
+Phrase: supportchanged 44
+
+Phrase: reportcomplete 44
+
+Phrase: logicutexas 44
+
+Phrase: differenceactions 44
+
+Phrase: accommodationsscores 44
+
+Phrase: ratedapplication 44
+
+Phrase: givefraij 44
+
+Phrase: kokkurobustness 44
+
+Phrase: deformableleibe 44
+
+Phrase: discussstandard 43
+
+Phrase: homenorman 43
+
+Phrase: groupstatesman 43
+
+Phrase: bryanlab 43
+
+Phrase: systemsaustin 43
+
+Phrase: startedservices 43
+
+Phrase: leadingobjects 43
+
+Phrase: sequentialdetect 43
+
+Phrase: servicescr 43
+
+Phrase: sciencedomain 43
+
+Phrase: exponentiallyside 43
+
+Phrase: normanxi 43
+
+Phrase: jacobnews 43
+
+Phrase: theorywomen 43
+
+Phrase: projectdeveloped 43
+
+Phrase: dijkstraproject 43
+
+Phrase: kappaembedding 43
+
+Phrase: reportphp 42
+
+Phrase: gausshunt 42
+
+Phrase: recognitionfeel 42
+
+Phrase: diversityreconnect 42
+
+Phrase: onlinedemetrescu 42
+
+Phrase: accvmetrics 42
+
+Phrase: timeapplications 42
+
+Phrase: gdctraveling 42
+
+Phrase: studyinternal 42
+
+Phrase: courseworkmission 42
+
+Phrase: emailconferences 42
+
+Phrase: integratedgeneral 42
+
+Phrase: writtenut 42
+
+Phrase: fleetinstructions 42
+
+Phrase: interactivesemantics 42
+
+Phrase: extendedaxioms 42
+
+Phrase: officelab 42
+
+Phrase: haldermanpeter 42
+
+Phrase: throwconcludes 42
+
+Phrase: randomchoi 42
+
+Phrase: pastai 42
+
+Phrase: phorganizations 42
+
+Phrase: executedsun 42
+
+Phrase: offlinesybil 42
+
+Phrase: mitattribute 42
+
+Phrase: timemark 42
+
+Phrase: linksconnections 42
+
+Phrase: animationwriteup 42
+
+Phrase: sharonkrempp 42
+
+Phrase: communicationsrss 41
+
+Indexed 800 documents with 23736 unique terms.
+Now able to process queries. When done, enter an empty query to exit.
+
+Enter query:  file system
+
+Top 10 matching Documents from most to least relevant:
+
+1.  P755.html            Score: 0.07297
+2.  P758.html            Score: 0.05128
+3.  P753.html            Score: 0.0465
+4.  P754.html            Score: 0.0457
+5.  P757.html            Score: 0.04254
+6.  P756.html            Score: 0.04083
+
+Enter `m' to see more, a number to show the nth document, nothing to exit.
+
+ Enter command:  
+
+Enter query:  logic programming
+
+No matching documents found.
+
+Enter query:  learning theory
+
+No matching documents found.
+
+Enter query:  office blog
+
+Top 10 matching Documents from most to least relevant:
+
+1.  P249.html            Score: 0.09735
+2.  P267.html            Score: 0.04885
+3.  P315.html            Score: 0.04885
+4.  P002.html            Score: 0.04885
+5.  P201.html            Score: 0.03458
+6.  P032.html            Score: 0.02804
+7.  P107.html            Score: 0.02804
+8.  P020.html            Score: 0.02781
+9.  P118.html            Score: 0.02762
+10. P094.html            Score: 0.0276
+
+Enter `m' to see more, a number to show the nth document, nothing to exit.
+
+ Enter command:  
+
+Enter query:  computer seminars
+
+Top 10 matching Documents from most to least relevant:
+
+1.  P053.html            Score: 0.0851
+2.  P010.html            Score: 0.07728
+3.  P264.html            Score: 0.06963
+4.  P006.html            Score: 0.06637
+5.  P193.html            Score: 0.0644
+6.  P159.html            Score: 0.06281
+7.  P158.html            Score: 0.06222
+8.  P035.html            Score: 0.05874
+9.  P234.html            Score: 0.04375
+10. P036.html            Score: 0.04355
+
+Enter `m' to see more, a number to show the nth document, nothing to exit.
+
+ Enter command:  
+
+Enter query:  file
+
+Top 10 matching Documents from most to least relevant:
+
+1.  P639.html            Score: 0.41081
+2.  P576.html            Score: 0.39104
+3.  P467.html            Score: 0.15607
+4.  P757.html            Score: 0.14032
+5.  P574.html            Score: 0.13558
+6.  P758.html            Score: 0.13532
+7.  P310.html            Score: 0.13274
+8.  P312.html            Score: 0.12507
+9.  P571.html            Score: 0.11873
+10. P468.html            Score: 0.11233
+
+Enter `m' to see more, a number to show the nth document, nothing to exit.
+
+ Enter command:  
+
+Enter query:  logic
+
+Top 10 matching Documents from most to least relevant:
+
+1.  P660.html            Score: 0.44545
+2.  P487.html            Score: 0.21243
+3.  P656.html            Score: 0.20951
+4.  P566.html            Score: 0.20797
+5.  P554.html            Score: 0.20695
+6.  P074.html            Score: 0.19515
+7.  P486.html            Score: 0.18113
+8.  P075.html            Score: 0.16943
+9.  P654.html            Score: 0.15582
+10. P580.html            Score: 0.14377
+
+Enter `m' to see more, a number to show the nth document, nothing to exit.
+
+ Enter command:  
+
+Enter query:  
+kxnguyen@snickers:~$ exit
+
+Script done on Wed 21 Sep 2016 11:00:23 PM CDT
